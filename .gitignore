@@ -1,0 +1,7 @@
+*.mp4
+*.camproj
+
+*.camrec
+*.log 
+
+node_modules
